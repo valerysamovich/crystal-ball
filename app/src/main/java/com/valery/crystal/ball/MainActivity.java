@@ -1,3 +1,10 @@
+/**
+ * FileName - MainActivity.java
+ * Copyright (c) Valery Samovich. All rights reserved.
+ * Author: Valery Samovich
+ * Date: 2014/05/26
+ */
+
 package com.valery.crystal.ball;
 
 import android.app.Activity;
