@@ -1,8 +1,8 @@
 /**
- * FileName - MainActivity.java
- * Copyright (c) Valery Samovich. All rights reserved.
- * Author: Valery Samovich
- * Date: 2014/05/26
+ * $FileName: MainActivity.java
+ * $Date: 2014/05/26
+ *
+ * @author: Valery Samovich
  */
 
 package com.valery.crystal.ball;
