@@ -1,8 +1,12 @@
 /**
- * $FileName: ShakeDetector.java
- * $Date: 2014/05/26
+ * No code from this file may not be reproduced, altered or further distributed
+ * by any means whether printed, electronic or otherwise without the prior
+ * written consent of author. If you have any questions please do not hesitate
+ * to contact me: http://www.linkedin.com/pub/valery-samovich/22/81/1bb/
  *
- * @author: Valery Samovich
+ * FileName - ShakeDetector.java
+ * Author: Valery Samovich
+ * Date: 2014/05/26
  */
 
 package com.valery.crystal.ball;
