@@ -60,7 +60,8 @@ public class MainActivity extends Activity {
         
         // A toast provides simple feedback about an operation in a small popup.
         // Toast.makeText(this, "Activity was created!", Toast.LENGTH_LONG).show();
-        Toast welcomeToast = Toast.makeText(this, "Look at me up here!", Toast.LENGTH_LONG);
+        Toast welcomeToast = Toast.makeText(
+                this, "Ask and shake for answer!", Toast.LENGTH_LONG);
         welcomeToast.setGravity(Gravity.TOP, 0, 10);
         welcomeToast.show();
         
@@ -71,7 +72,8 @@ public class MainActivity extends Activity {
     @Override
     public void onResume(){
         super.onResume();
-        mSensorManager.registerListener(mShakeDetector, mAccelerometer, SensorManager.SENSOR_DELAY_UI);
+        mSensorManager.registerListener(
+                mShakeDetector, mAccelerometer, SensorManager.SENSOR_DELAY_UI);
     }
     
     @Override
@@ -82,7 +84,8 @@ public class MainActivity extends Activity {
     
     private void animateCrystalBall(){
         mCrystalBallImage.setImageResource(R.drawable.ball_animation);
-        AnimationDrawable ballAnimation = (AnimationDrawable) mCrystalBallImage.getDrawable();
+        AnimationDrawable ballAnimation = (
+                AnimationDrawable) mCrystalBallImage.getDrawable();
         if (ballAnimation.isRunning()) {
             ballAnimation.stop();
         }

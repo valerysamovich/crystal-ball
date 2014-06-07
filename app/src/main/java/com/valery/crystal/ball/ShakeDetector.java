@@ -92,7 +92,7 @@ public class ShakeDetector implements SensorEventListener {
     }
     
     private void setCurrentAcceleration(SensorEvent event) {
-       	/*
+       	/**
     	 *  BEGIN SECTION from Android developer site. This code accounts for 
     	 *  gravity using a high-pass filter
     	 */

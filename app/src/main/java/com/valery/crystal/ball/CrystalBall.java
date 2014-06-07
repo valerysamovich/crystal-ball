@@ -31,8 +31,7 @@ public class CrystalBall {
         // Construct a new Random number generator
         Random randomGenerator = new Random();
         int randomNumber = randomGenerator.nextInt(mAnswers.length);
-        
-        
+
         // Convert the randomNumber to a text answer
         answer = mAnswers[randomNumber];
         return answer;
