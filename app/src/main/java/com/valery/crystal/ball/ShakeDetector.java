@@ -141,7 +141,7 @@ public class ShakeDetector implements SensorEventListener {
     	moveCount = 0;
     }
     
-    /*
+    /**
      * Definition for OnShakeListener definition. I would normally put this
      * into it's own .java file, but I included it here for quick reference
      * and to make it easier to include this file in our project.

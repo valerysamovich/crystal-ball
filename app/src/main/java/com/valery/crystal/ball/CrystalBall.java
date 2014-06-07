@@ -9,6 +9,7 @@ package com.valery.crystal.ball;
 import java.util.Random;
 
 public class CrystalBall {
+
     // Member variables (properties about the object)
     public String[] mAnswers = {
             "It is certain!",

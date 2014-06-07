@@ -92,9 +92,12 @@ public class MainActivity extends Activity {
         ballAnimation.start();
     }
 
+    /**
+     * Animate the answer
+     */
     private void animateAnswer(){
         AlphaAnimation fadeInAnimation = new AlphaAnimation(0, 1);
-        fadeInAnimation.setDuration(1500);
+        fadeInAnimation.setDuration(1700);
         fadeInAnimation.setFillAfter(true);
         
         mAnswerLabel.setAnimation(fadeInAnimation);
