@@ -16,3 +16,17 @@ Android application with shake detector. Predict the future with amazing Crystal
 - It's animated!
 - It's free!
 
+## For contributors
+
+File header:
+
+    ##################################################
+    # The MIT License (MIT)
+    ##################################################
+
+1. Fork and Clone.
+2. Each PR must be reviewed and approved by other SMEs (Subject Matter Experts).
+3. Do not merge your own PR (Pull Request).
+
+**Important**: ream mode about licence here
+
