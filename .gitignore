@@ -34,5 +34,5 @@ Status API Training Shop Blog About Pricing
 
 # Android Studio
 *.iml
-.idea/
+/.idea
 /out/
