@@ -33,5 +33,6 @@ captures/
 Status API Training Shop Blog About Pricing
 
 # Android Studio
+*.iml
 .idea/
-*iml
+/out/
