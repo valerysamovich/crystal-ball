@@ -21,7 +21,7 @@ Android application with shake detector. Predict the future with amazing Crystal
 File header:
 
     ##################################################
-    # The MIT License (MIT)
+    # Copyright (c) 2015 Valery Samovich
     ##################################################
 
 1. Fork and Clone.
