@@ -28,5 +28,5 @@ File header:
 2. Each PR must be reviewed and approved by other SMEs (Subject Matter Experts).
 3. Do not merge your own PR (Pull Request).
 
-**Important**: ream mode about licence here
+**Important**: ream mode about [licence](https://github.com/valerysamovich/crystal-ball/blob/master/LICENSE.txt)
 
