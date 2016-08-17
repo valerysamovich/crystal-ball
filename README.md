@@ -1,4 +1,4 @@
-# Crystal Ball
+# CrystalBall
 
 Android application with shake detector. Predict the future with amazing Crystal Ball app!
 
