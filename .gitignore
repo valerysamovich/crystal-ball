@@ -1,18 +1,19 @@
-### Android ###
 
 # Built application files
 *.apk
 *.ap_
 
-# Files for the Dalvik VM
+# Files for the ART/Dalvik VM
 *.dex
 
 # Java class files
 *.class
 
 # Generated files
+app/gen/
 bin/
 gen/
+out/
 
 # Gradle files
 .gradle/
@@ -32,9 +33,10 @@ proguard/
 
 # Android Studio captures folder
 captures/
-Status API Training Shop Blog About Pricing
 
-# Android Studio
+# Intellij
 *.iml
 .idea/
-/out/
+
+# Keystore files
+*.jks
