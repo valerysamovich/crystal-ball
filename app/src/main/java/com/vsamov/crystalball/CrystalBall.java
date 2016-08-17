@@ -4,13 +4,13 @@
  * @date: 2014/03/21
  */
 
-package com.valery.crystal.ball;
+package com.vsamov.crystalball;
 
 import java.util.Random;
 
 public class CrystalBall {
 
-    // Member variables (properties about the object)
+    // member variables (properties about the object)
     public String[] mAnswers = {
             "It is certain!",
             "It is decidedly so!",
@@ -22,8 +22,11 @@ public class CrystalBall {
             "Concentrate and ask again!",
             "Unable to answer now!",
             "It is hard to say!"};
-    
-    // Methods (abilities: things the object can do)
+
+    /**
+     * Methods (abilities: things the object can do)
+     * @return
+     */
     public String getAnAnswer(){
     
         String answer = "";

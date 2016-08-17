@@ -5,10 +5,6 @@
     android:versionCode="2"
     android:versionName="1.1" >
 
-    <uses-sdk
-        android:minSdkVersion="8"
-        android:targetSdkVersion="18" />
-
     <!-- android:debuggable="false" - need to be true for debugging mode -->
     <application
         android:allowBackup="true"
@@ -18,7 +14,7 @@
         android:debuggable="false"
         tools:ignore="HardcodedDebugMode">
         <activity
-            android:name="com.valery.crystal.ball.MainActivity"
+            android:name="com.vsamov.crystalball.MainActivity"
             android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
