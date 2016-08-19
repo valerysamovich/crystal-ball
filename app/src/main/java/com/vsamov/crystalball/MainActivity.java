@@ -20,8 +20,6 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.valery.crystalball.R;
-
 public class MainActivity extends Activity {
 
     // Log vars
