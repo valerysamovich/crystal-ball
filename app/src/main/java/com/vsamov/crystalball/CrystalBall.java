@@ -21,7 +21,12 @@ public class CrystalBall {
             "Better not tell you now!",
             "Concentrate and ask again!",
             "Unable to answer now!",
-            "It is hard to say!"};
+            "It is hard to say!",
+            "Reply hazy try again...",
+            "Very doubtful!",
+            "Outlook not so good.",
+            "Yes, definitely!",
+            "Most likely!"};
 
     /**
      * Methods (abilities: things the object can do)
